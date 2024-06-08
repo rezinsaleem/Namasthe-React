@@ -4,3 +4,19 @@
   text-align: center;
   margin-top: 50px;
 }
+
+.head{
+  color: yellowgreen;
+  font-style: italic;
+  text-align: center;
+  margin-top: 50px;
+}
+
+.pic{
+  width:auto;
+  height: 450px;
+}
+
+#myDiv{
+  text-align: center;
+}
